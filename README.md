@@ -1,0 +1,2 @@
+# rocketmq-client
+该模块主要是用于开源版本的Rocketmq的客户端代码，同时对开源版本的RocketMQ做了一些注释和功能的说明，为了方便大家阅读源码和研究RocketMQ
